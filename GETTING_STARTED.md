@@ -2,7 +2,7 @@
 
 ## ✅ Lo que hemos creado
 
-Tu portafolio moderno profesional con:
+Tu portafolio moderno profesional con 3 proyectos reales integrados:
 
 ✨ **Características principales:**
 - Navbar responsiva con menú móvil

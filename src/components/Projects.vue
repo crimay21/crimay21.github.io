@@ -4,51 +4,27 @@ import { ref } from 'vue'
 const projects = ref([
   {
     id: 1,
-    title: 'SaaS Dashboard',
-    description: 'Plataforma completa de gestión empresarial con autenticación y análisis en tiempo real.',
-    tags: ['Vue 3', 'Node.js', 'PostgreSQL', 'Tailwind'],
-    link: 'https://github.com/superdb/saas-dashboard',
+    title: 'Arepa Flame',
+    description: 'Plataforma web interactiva que funciona como un motor de búsqueda inteligente potenciado por Inteligencia Artificial, diseñada para procesar consultas de usuarios y ofrecer respuestas optimizadas en tiempo real.',
+    tags: ['Nuxt.js', 'AI', 'Search Engine', 'Real-time'],
+    link: 'https://github.com/davidcastilloc/arepa-flame',
     color: 'from-purple-600 to-pink-600'
   },
   {
     id: 2,
-    title: 'E-Commerce API',
-    description: 'API REST escalable con microservicios, pagos integrados y gestión de inventario.',
-    tags: ['Express', 'MongoDB', 'AWS', 'Docker'],
-    link: 'https://github.com/superdb/ecommerce-api',
+    title: 'Insomed',
+    description: 'Sistema de gestión comercial (CRM/ERP) desarrollado para centralizar y automatizar el control de compras y ventas, permitiendo el seguimiento de transacciones, la gestión de clientes y proveedores.',
+    tags: ['Vue.js', 'CRM', 'ERP', 'Business'],
+    link: 'https://github.com/Futuro-Zero/Insomed',
     color: 'from-blue-600 to-cyan-600'
   },
   {
     id: 3,
-    title: 'React Native App',
-    description: 'Aplicación móvil multiplataforma para gestión de tareas con sincronización en la nube.',
-    tags: ['React Native', 'Firebase', 'Redux', 'Expo'],
-    link: 'https://github.com/superdb/mobile-app',
+    title: 'API Middleware Dashboard',
+    description: 'Dashboard middleware para gestionar los pedidos en tiempo real, permitiendo monitoreo, control y automatización de procesos comerciales con interfaz intuitiva.',
+    tags: ['Vue.js', 'Middleware', 'Orders', 'Real-time'],
+    link: 'https://github.com/ola-y-montana/api-middleware-api-services',
     color: 'from-green-600 to-emerald-600'
-  },
-  {
-    id: 4,
-    title: 'Real-time Chat',
-    description: 'Sistema de mensajería en tiempo real con notificaciones y encriptación end-to-end.',
-    tags: ['Socket.io', 'Vue.js', 'WebRTC', 'Redis'],
-    link: 'https://github.com/superdb/realtime-chat',
-    color: 'from-orange-600 to-red-600'
-  },
-  {
-    id: 5,
-    title: 'ML Pipeline',
-    description: 'Pipeline de machine learning para análisis de datos con visualización interactiva.',
-    tags: ['Python', 'TensorFlow', 'Flask', 'D3.js'],
-    link: 'https://github.com/superdb/ml-pipeline',
-    color: 'from-indigo-600 to-purple-600'
-  },
-  {
-    id: 6,
-    title: 'Blockchain Wallet',
-    description: 'Billetera criptográfica segura con interfaz web moderna y gestión de criptomonedas.',
-    tags: ['Solidity', 'Web3.js', 'React', 'Hardhat'],
-    link: 'https://github.com/superdb/crypto-wallet',
-    color: 'from-yellow-600 to-orange-600'
   }
 ])
 </script>

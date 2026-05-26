@@ -25,14 +25,14 @@ const contactInfo = ref([
   {
     icon: 'mail',
     label: 'Email',
-    value: 'christian@superdb.dev',
-    href: 'mailto:christian@superdb.dev'
+    value: 'tu-email@ejemplo.com',
+    href: 'mailto:tu-email@ejemplo.com'
   },
   {
     icon: 'phone',
     label: 'Teléfono',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567'
+    value: '+XX (XXX) XXX-XXXX',
+    href: 'tel:+XXXXXXXXXXXXX'
   },
   {
     icon: 'location',

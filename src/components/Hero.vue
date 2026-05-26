@@ -24,18 +24,18 @@
 
         <!-- Título principal -->
         <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent">
-          Christian Mauro
+          Christian Rimay Pelaez
         </h1>
 
         <!-- Subtítulo -->
         <p class="text-2xl md:text-3xl text-gray-300 mb-8">
-          Full Stack Developer & Creative Mind
+          Full Stack Developer & Innovator
         </p>
 
         <!-- Descripción -->
         <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-12 leading-relaxed">
-          Apasionado por crear experiencias digitales innovadoras. Especializado en 
-          <span class="text-purple-400 font-semibold">Vue.js, React, Node.js y Cloud</span>. 
+          Especializado en 
+          <span class="text-purple-400 font-semibold">Vue.js y Node.js</span>. 
           Transformo ideas en soluciones escalables y de alto rendimiento.
         </p>
 

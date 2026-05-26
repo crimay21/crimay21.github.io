@@ -9,10 +9,10 @@ const currentYear = new Date().getFullYear()
         <!-- Branding -->
         <div>
           <h3 class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent mb-2">
-            SUPERDB
+            CR
           </h3>
           <p class="text-gray-400 text-sm">
-            Full Stack Developer crafting digital experiences
+            Full Stack Developer especializado en Vue.js y Node.js
           </p>
         </div>
 
@@ -65,7 +65,7 @@ const currentYear = new Date().getFullYear()
       <div class="border-t border-gray-700 pt-8">
         <div class="flex flex-col md:flex-row justify-between items-center">
           <p class="text-gray-500 text-sm">
-            © {{ currentYear }} Christian Mauro. All rights reserved.
+            © {{ currentYear }} Christian Rimay Pelaez. All rights reserved.
           </p>
           <p class="text-gray-500 text-sm mt-4 md:mt-0">
             Diseñado y desarrollado por mí con <span class="text-red-500">❤️</span>

@@ -25,7 +25,7 @@ const scrollToSection = (section) => {
         <!-- Logo -->
         <div class="flex-shrink-0">
           <a href="#home" class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent hover:opacity-80 transition">
-            SUPERDB
+            CR
           </a>
         </div>
 

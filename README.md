@@ -1,4 +1,4 @@
-# Christian Mauro's Portfolio
+# Christian Rimay Pelaez - Portfolio
 
 > Un portafolio moderno, elegante y profesional creado con Vue 3 + Vite + Tailwind CSS
 
@@ -113,10 +113,9 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 👨‍💻 Autor
 
-**Christian Mauro Rimay Pelaez**
+**Christian Rimay Pelaez**
 - GitHub: [@superdb](https://github.com/superdb)
-- LinkedIn: [Christian Mauro](https://linkedin.com/in/superdb)
-- Email: christian@superdb.dev
+- Email: tu-email@ejemplo.com
 
 ---
 
