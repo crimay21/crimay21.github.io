@@ -25,6 +25,14 @@ const projects = ref([
     tags: ['Vue.js', 'Middleware', 'Orders', 'Real-time'],
     link: 'https://github.com/ola-y-montana/api-middleware-api-services',
     color: 'from-green-600 to-emerald-600'
+  },
+  {
+    id: 4,
+    title: 'Studio V2',
+    description: 'Web de suscripción para la gestión de obras y artes manuales, orientada a organizar catálogos, administrar piezas creativas y facilitar su venta en línea.',
+    tags: ['Vue.js', 'Subscription', 'Artworks', 'E-commerce'],
+    link: 'https://github.com/superdb/studio-v2',
+    color: 'from-orange-600 to-amber-600'
   }
 ])
 </script>

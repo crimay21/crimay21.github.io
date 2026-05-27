@@ -35,7 +35,7 @@
         <!-- Descripción -->
         <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-12 leading-relaxed">
           Especializado en 
-          <span class="text-purple-400 font-semibold">Vue.js y Node.js</span>. 
+          <span class="text-purple-400 font-semibold">Vue.js,Laravel y Node.js</span>. 
           Transformo ideas en soluciones escalables y de alto rendimiento.
         </p>
 

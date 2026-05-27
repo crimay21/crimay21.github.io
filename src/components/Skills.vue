@@ -113,10 +113,10 @@ const tools = ref([
           <div class="text-gray-400">Años de Experiencia</div>
         </div>
 
-        <div class="bg-gradient-to-br from-blue-600/10 to-cyan-600/10 rounded-xl p-8 border border-blue-500/30 text-center">
+        <!-- <div class="bg-gradient-to-br from-blue-600/10 to-cyan-600/10 rounded-xl p-8 border border-blue-500/30 text-center">
           <div class="text-4xl font-bold text-blue-400 mb-2">50+</div>
           <div class="text-gray-400">Proyectos Completados</div>
-        </div>
+        </div> -->
 
         <div class="bg-gradient-to-br from-green-600/10 to-emerald-600/10 rounded-xl p-8 border border-green-500/30 text-center">
           <div class="text-4xl font-bold text-green-400 mb-2">100%</div>

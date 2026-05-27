@@ -22,24 +22,24 @@ const handleSubmit = (e) => {
 }
 
 const contactInfo = ref([
-  {
-    icon: 'mail',
-    label: 'Email',
-    value: 'tu-email@ejemplo.com',
-    href: 'mailto:tu-email@ejemplo.com'
-  },
-  {
-    icon: 'phone',
-    label: 'Teléfono',
-    value: '+XX (XXX) XXX-XXXX',
-    href: 'tel:+XXXXXXXXXXXXX'
-  },
-  {
-    icon: 'location',
-    label: 'Ubicación',
-    value: 'Buenos Aires, Argentina',
-    href: '#'
-  }
+//   {
+//     icon: 'mail',
+//     label: 'Email',
+//     value: 'tu-email@ejemplo.com',
+//     href: 'mailto:tu-email@ejemplo.com'
+//   },
+//   {
+//     icon: 'phone',
+//     label: 'Teléfono',
+//     value: '+XX (XXX) XXX-XXXX',
+//     href: 'tel:+XXXXXXXXXXXXX'
+//   },
+//   {
+//     icon: 'location',
+//     label: 'Ubicación',
+//     value: 'Buenos Aires, Argentina',
+//     href: '#'
+//   }
 ])
 </script>
 
